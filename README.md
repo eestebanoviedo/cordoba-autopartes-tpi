@@ -32,8 +32,23 @@ Los documentos se encuentran organizados en la carpeta `docs/`.
 - **BPMN:** modelado de procesos organizacionales.
 
 ## Gestión del proyecto
+## Gestión del proyecto
 
-**Tablero de trabajo:** pendiente de incorporar.
+La planificación del proyecto se organiza mediante GitHub Projects, utilizando un tablero Kanban con los estados **Por Hacer**, **En Progreso** y **Listo**.
+
+**Tablero Kanban:** [Córdoba Autopartes – Gestión del TPI](https://github.com/users/eestebanoviedo/projects/1)
+
+### Historias de usuario
+
+| Código | Historia | Estado |
+|---|---|---|
+| HU-01 | Registrar piezas en el inventario | Por Hacer |
+| HU-02 | Consultar disponibilidad y ubicación de piezas | Por Hacer |
+| HU-03 | Reservar piezas para su despacho | Por Hacer |
+
+Las historias están registradas como Issues del repositorio, con sus respectivos criterios de aceptación y prioridades.
+
+El tablero permite visualizar las tareas pendientes, las actividades en desarrollo y las finalizadas..
 
 ## Uso de inteligencia artificial
 
