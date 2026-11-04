@@ -1,65 +1,13 @@
-# Córdoba Autopartes – Sistema de Inventario y Trazabilidad de Piezas
-
-## Descripción del proyecto
-
-Trabajo Práctico Integrador de la materia **Organización Empresarial**, correspondiente a la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional (UTN).
-
-El proyecto propone un sistema informático para gestionar el inventario de autopartes, registrar sus movimientos, controlar las ubicaciones y administrar las reservas de piezas, con el objetivo de mejorar la organización y la trazabilidad de las operaciones.
-
-## Objetivos
-
-- Centralizar la información del inventario de autopartes.
-- Mejorar el seguimiento de las piezas y sus movimientos.
-- Facilitar la consulta de disponibilidad y ubicación.
-- Organizar los procesos de reserva y despacho.
-- Proponer indicadores para evaluar el desempeño operativo.
-
-## Documentación
-
-| Entrega | Contenido |
-|---|---|
-| 1 | Análisis de la organización y enfoque sistémico |
-| 2 | Análisis FODA, objetivos y planificación |
-| 3 | Estructura organizacional y modelo de datos |
-| 4 | Modelado BPMN, gestión ágil e indicadores de desempeño |
-
-Los documentos se encuentran organizados en la carpeta `docs/`.
-
-## Herramientas de gestión
-
-- **Git y GitHub:** control de versiones y documentación.
-- **GitHub Projects:** organización y seguimiento de tareas.
-- **BPMN:** modelado de procesos organizacionales.
-
-## Gestión del proyecto
-## Gestión del proyecto
-
-La planificación del proyecto se organiza mediante GitHub Projects, utilizando un tablero Kanban con los estados **Por Hacer**, **En Progreso** y **Listo**.
-
-**Tablero Kanban:** [Córdoba Autopartes – Gestión del TPI](https://github.com/users/eestebanoviedo/projects/1)
-
-### Historias de usuario
-
-| Código | Historia | Estado |
-|---|---|---|
-| HU-01 | Registrar piezas en el inventario | Por Hacer |
-| HU-02 | Consultar disponibilidad y ubicación de piezas | Por Hacer |
-| HU-03 | Reservar piezas para su despacho | Por Hacer |
-
-Las historias están registradas como Issues del repositorio, con sus respectivos criterios de aceptación y prioridades.
-
-El tablero permite visualizar las tareas pendientes, las actividades en desarrollo y las finalizadas..
-
 ## Uso de inteligencia artificial
 
 Durante la elaboración del trabajo se utilizó ChatGPT como herramienta de apoyo para organizar la documentación, revisar la redacción y orientar la utilización de Git y GitHub.
 
-Se documentarán los prompts relevantes, las sugerencias recibidas y las correcciones realizadas mediante revisión humana.
+También se realizaron consultas para modelar el proceso de reserva y despacho mediante BPMN, organizar las historias de usuario y definir indicadores de desempeño.
+
+Las sugerencias recibidas fueron revisadas y adaptadas al proyecto. Por ejemplo:
+
+- **BPMN:** se revisaron las actividades, decisiones y excepciones del proceso. Posteriormente, siguiendo la observación del tutor, se incorporó el pool externo del Cliente y su flujo de mensaje.
+- **Git y GitHub:** se consultaron comandos para trabajar con ramas, commits y Pull Requests. Las operaciones se realizaron y verificaron manualmente.
+- **Indicadores:** se revisaron las propuestas de exactitud del inventario, tiempo de despacho y cumplimiento de reservas para mantenerlas coherentes con el sistema planteado.
 
 La selección del contenido, su validación y la responsabilidad sobre el trabajo final corresponden al autor.
-
-## Autor
-
-Esteban Oviedo  
-Tecnicatura Universitaria en Programación – UTN  
-Materia: Organización Empresarial
